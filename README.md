@@ -10,6 +10,17 @@
   * 4.	O sistema deve validar se a nota possui protocolo de autorização preenchido (campo <nProt>);
   * 5.	O sistema deve exibir em uma tela os seguintes dados: Número da nota Fiscal, Data da nota Fiscal, dados completos do destinatário e valor total da nota fiscal;
  
-#Requisitos não funcionais:
+# Requisitos não funcionais:
   * 1 - Os dados que serão exibidos na tela deverão ser armazenados em um banco de dados MySQL;
   * 2 - Deverá ser desenvolvido em linguagem PHP 7;
+
+# Tecnologias
+  * 1 Php
+  * 2 Laravel
+  * 3 Mysql
+  
+# Comandos 
+  * php artisan serve
+  
+# Rotas
+  * http://127.0.0.1:8000/read-xml    
